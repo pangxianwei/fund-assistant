@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "基金助手",
+  "version": "1.0.0",
+  "description": "简洁的基金净值查询工具",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://fundgz.1234567.com.cn/*"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

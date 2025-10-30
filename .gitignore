@@ -1,0 +1,28 @@
+# 开发工具文件
+.DS_Store
+.vscode/
+.idea/
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 临时文件
+*.log
+*.tmp
+~*
+
+# 不需要的生成文件
+generate_icon.html
+generate_icon.py
+
+# Node modules（如果将来使用）
+node_modules/
+
+# 打包文件
+*.zip
+*.crx
+*.pem
