@@ -15,7 +15,8 @@
     "storage"
   ],
   "host_permissions": [
-    "https://fundgz.1234567.com.cn/*"
+    "https://fundgz.1234567.com.cn/*",
+    "https://push2.eastmoney.com/*"
   ],
   "icons": {
     "16": "icon.png",
